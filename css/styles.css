@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: aqua;
+}
+#fusion {
+    position: relative;
+}
+
+.armas1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+  animation-delay: 3s;
+}
+
+.texturamonjes2 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -2;
+    animation-delay: 2.5s
+  }
+.texturarostro3 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -3;
+    animation-delay: 2s;
+}
+.rostro4 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -4;
+    animation-delay: 1.5s;
+}
+.texto5 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -5;
+    animation-delay: 1s;
+}
+.micapa6 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -6;
+    animation-delay: .5s;
+}
+.pisotextura7 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -7;
+}
+.boton {
+    position: absolute;
+    z-index: 10;
+     margin-top: 350px;
+}
